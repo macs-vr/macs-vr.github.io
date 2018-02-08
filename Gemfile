@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem 'ffi', '1.9.18'
 gem 'jekyll', "3.5.2"
 group :jekyll_plugins do
    gem "jekyll-paginate", "~> 1.1.0"
