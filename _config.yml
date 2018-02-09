@@ -1,13 +1,10 @@
-title: VRで見る・3Dで触る先端科学
-author: MACS SG3 Study Group
-email: inou@math.kyoto-u.ac.jp
+title: VRで見る・3Dで触る先端科学 (MACS教育プログラム スタディグループ)
+author: MACS VR Study Group
+#email: inou@math.kyoto-u.ac.jp
 # twitter_username:
 # github_username:
 description: > #
-  概要を書きましょう。
-
-#  2016年は「VR元年」と呼ばれ、様々な装置の登場により、今までにない現実感・没入感をもって仮想現実の世界を楽しむことができるようになった。もちろん数理科学・自然科学においても、様々な分野に現れる3次元的な対象を観察して理解することは重要であり、紙やディスプレイなどで2次元に投影したものを見るだけでは十分に理解できないことも多い。そのような複雑な対象を、没入型VR装置を用いてその中に入りこんで観察したり、3Dプリンタで実際に出力して触ってみたりして、対象をより身近に体感し、新しい構造や現象を発見したり、より深く理解する為の手法を学ぶ。
-
+  没入型VR装置や3Dプリンタで数理科学・自然科学に現れる3次元(以上)の対象を観察する手法を学ぶためのスタディグループです．
 minima:
   date_format: "%Y-%m-%d"
 permalink: date
@@ -19,3 +16,4 @@ exclude:
   - Gemfile.lock
   - Makefile
   - README.md
+  - vendor
