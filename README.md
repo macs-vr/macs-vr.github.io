@@ -1,6 +1,6 @@
 # はじめに
 
-[jekyll](https://jekyllrb.com/) でページを作成します。テーマとして [aminima = minima + AMP 対応](https://github.com/shoyan/aminima) を利用します。細かい所が気になったら、また修正するかもしれませんが。
+[jekyll](https://jekyllrb.com/) でページを作成します。細かい所が気になったら、また修正するかもしれませんが。
 
 ## 依存物
 
