@@ -1,8 +1,9 @@
-title: VRで見る・3Dで触る先端科学 (MACS教育プログラム スタディグループ)
+title: VRで見る・3Dで触る先端科学
+subtitle: MACS教育プログラム スタディグループ
 author: MACS VR Study Group
 #email: inou@math.kyoto-u.ac.jp
 # twitter_username:
-# github_username:
+github_username: macs-vr
 description: > #
   没入型VR装置や3Dプリンタで数理科学・自然科学に現れる3次元(以上)の対象を観察する手法を学ぶためのスタディグループです．
 minima:
@@ -10,10 +11,14 @@ minima:
 permalink: date
 
 markdown: kramdown
-theme: aminima
 exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
   - README.md
   - vendor
+plugins:
+   - jekyll-mentions
+   - jekyll-sitemap
+   - jekyll-feed
+   - jekyll-seo-tag

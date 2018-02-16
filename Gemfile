@@ -1,9 +1,3 @@
 source "https://rubygems.org"
 gem 'ffi', '1.9.18'
-gem 'jekyll', "3.5.2"
-group :jekyll_plugins do
-   gem "jekyll-paginate", "~> 1.1.0"
-   gem "jekyll-feed", "~> 0.6"
-   gem "jekyll-gist"
-end
-gem 'aminima'
+gem 'github-pages', group: :jekyll_plugins
