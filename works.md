@@ -20,4 +20,8 @@ title: 作品
 
 <img src="/images/makuta/makuta.png" alt="共焦点やCTなどの三次元画像データを表示" style="width: 150px;" />
 
+# [西上幸範: ボクセル画像のVR表示]({{site.baseurl}}/2018/03/02/nishigami.html)
+
+<img src="/images/nishigami/gami.png" alt="ボクセル画像のVR表示" style="width: 150px;" />
+
 (以下準備中)
