@@ -16,4 +16,8 @@ title: 作品
 <img src="/images/hidaka/PinchDraw.PNG" alt="PinchDraw" style="width: 150px;" />
 <img src="/images/hidaka/teleport.PNG" alt="テレポート" style="width: 150px;" />
 
+# [幕田将宏: 共焦点やCTなどの三次元画像データを表示]({{site.baseurl}}/2018/03/01/makuta.html)
+
+<img src="/images/makuta/makuta.png" alt="共焦点やCTなどの三次元画像データを表示" style="width: 150px;" />
+
 (以下準備中)
