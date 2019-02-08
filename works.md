@@ -2,25 +2,31 @@
 layout: page
 title: 作品
 ---
+# 2018年度
 
-# [外村一朗: 微分方程式の解軌道を見る]({{site.baseurl}}/2018/02/22/hokamura.html)
+(準備中)
+
+---
+# 2017年度
+
+## [外村一朗: 微分方程式の解軌道を見る]({{site.baseurl}}/2018/02/22/hokamura.html)
 <img src="/images/hokamura/Lorenz.png" alt="Lorenz アトラクタ" style="width: 150px;" />
 <img src="/images/hokamura/Roessler.png" alt="Roessler system" style="width: 150px;" />
 <img src="/images/hokamura/Thomas.png" alt="Thomas' system" style="width: 150px;" />
 <img src="/images/hokamura/selection.png" alt="選択画面" style="width: 150px;" />
 
-# [日高拓也: DNA などの分子構造を見る]({{site.baseurl}}/2018/02/22/hidaka.html)
+## [日高拓也: DNA などの分子構造を見る]({{site.baseurl}}/2018/02/22/hidaka.html)
 
 <img src="/images/hidaka/protein_model.PNG" alt="分子モデル" style="width: 150px;" />
 <img src="/images/hidaka/interaction.PNG" alt="分子モデルを掴む" style="width: 150px;" />
 <img src="/images/hidaka/PinchDraw.PNG" alt="PinchDraw" style="width: 150px;" />
 <img src="/images/hidaka/teleport.PNG" alt="テレポート" style="width: 150px;" />
 
-# [幕田将宏: 共焦点やCTなどの三次元画像データを表示]({{site.baseurl}}/2018/03/01/makuta.html)
+## [幕田将宏: 共焦点やCTなどの三次元画像データを表示]({{site.baseurl}}/2018/03/01/makuta.html)
 
 <img src="/images/makuta/makuta.png" alt="共焦点やCTなどの三次元画像データを表示" style="width: 150px;" />
 
-# [西上幸範: ボクセル画像のVR表示]({{site.baseurl}}/2018/03/02/nishigami.html)
+## [西上幸範: ボクセル画像のVR表示]({{site.baseurl}}/2018/03/02/nishigami.html)
 
 <img src="/images/nishigami/gami.png" alt="ボクセル画像のVR表示" style="width: 150px;" />
 
