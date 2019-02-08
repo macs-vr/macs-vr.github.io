@@ -5,7 +5,7 @@ title: 作品紹介4 (西上幸範)
 
 4つ目は西上幸範さん (物理学第一教室 PD) の作品です.
 
-![ボクセル画像のVR表示]({{site.baseurl}}/images/nishigami/gami.png)
+![ボクセル画像のVR表示]({{site.baseurl}}/images/2017/nishigami/gami.png)
 
 西上さん作成の[スライド](https://drive.google.com/open?id=1VwI0vHpF_o5OkPLBo6B7D2MgzPMaKfvK) (PowerPoint, 12MB) をご覧ください. 動画も含まれています (動画は Googleドライブでは再生できないようです)。
 
