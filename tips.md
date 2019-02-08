@@ -3,7 +3,7 @@ layout: page
 title: Tips・参考リンク
 ---
 
-随時更新しています。
+随時更新していきます。
 
 ## Tips
 
