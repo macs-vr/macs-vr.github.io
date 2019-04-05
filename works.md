@@ -8,7 +8,8 @@ title: 作品
 * 松澤 優太：分子軌道ビューア
 * 石塚 裕大：Clebsch の曲面
 * 松本 剛：流体力学の3D可視化
-* 稲生 啓行：球面二重振り子
+* [稲生 啓行：球面二重振り子]({{site.baseurl}}/2019/04/05/inou-pendulum.html)
+<p><img src="/images/2018/DoubleSphericalPendulum.png" alt="球面二重振り子" style="width: 150px;" /></p>
 * 稲生 啓行：正多胞体
 * 稲生 啓行：複素 Hénon 写像の Julia 集合
 
