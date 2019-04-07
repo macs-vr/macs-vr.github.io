@@ -4,16 +4,26 @@ title: 作品
 ---
 # 2018年度
 
-* [成果報告会用 360°動画]({{site.baseurl}}/2019/04/06/demo.html)
+## [成果報告会用 360°動画]({{site.baseurl}}/2019/04/06/demo.html)
 
-* 佐々木 眞帆：光速が遅くなった時の色の見え方
-* 松澤 優太：分子軌道ビューア
-* 石塚 裕大：Clebsch の曲面
-* 松本 剛：流体力学の3D可視化
-* [稲生 啓行：球面二重振り子]({{site.baseurl}}/2019/04/05/inou-pendulum.html)
-<p><img src="/images/2018/DoubleSphericalPendulum.png" alt="球面二重振り子" style="width: 150px;" /></p>
-* [稲生 啓行：正多胞体]({{site.baseurl}}/2019/04/06/inou-polytopes.html)
-* [稲生 啓行：複素 Hénon 写像の Julia 集合]({{site.baseurl}}/2019/04/06/inou-julia.html)
+## [佐々木 眞帆：光速が遅くなった時の色の見え方]({{site.baseurl}}/2019/04/07/sasaki.html)
+<img src="/images/2018/sasaki.png" alt="光速が遅くなった時の色の見え方" style="width: 150px;" />
+
+## [松澤 優太：分子軌道ビューア]({{site.baseurl}}/2019/04/07/matsuzawa.html)
+<img src="/images/2018/matsuzawa/Screenshot_20181130-154548.png" alt="ChaldeasVR: スマートフォンの画面" style="width: 150px;" />
+<img src="/images/2018/matsuzawa/Screenshot_20181130-154605.png" alt="ChaldeasVR: 右側のパネルで拡大・縮小" style="width: 150px;" />
+<img src="/images/2018/matsuzawa/Screenshot_20181130-154617.png" alt="ChaldeasVR: 左側のパネルでモデルのロード" style="width: 150px;" />
+
+## [石塚 裕大：Clebsch の曲面]({{site.baseurl}}/2019/04/07/ishitsuka.html)
+<img src="/images/2018/ishitsuka.jpg" alt="Clebsch の曲面" style="width: 150px;" />
+
+## 松本 剛：流体力学の3D可視化
+## [稲生 啓行：球面二重振り子]({{site.baseurl}}/2019/04/05/inou-pendulum.html)
+<img src="/images/2018/DoubleSphericalPendulum.png" alt="球面二重振り子" style="width: 150px;" />
+
+## [稲生 啓行：正多胞体]({{site.baseurl}}/2019/04/06/inou-polytopes.html)
+
+## [稲生 啓行：複素 Hénon 写像の Julia 集合]({{site.baseurl}}/2019/04/06/inou-julia.html)
 
 (準備中)
 
