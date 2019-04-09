@@ -4,7 +4,7 @@ title: 作品
 ---
 # 2018年度
 
-## [成果報告会用 360°動画]({{site.baseurl}}/2019/04/06/demo.html)
+* [成果報告会用 360°動画]({{site.baseurl}}/2019/04/06/demo.html)
 
 ## [佐々木 眞帆：光速が遅くなった時の色の見え方]({{site.baseurl}}/2019/04/07/sasaki.html)
 <img src="/images/2018/sasaki.png" alt="光速が遅くなった時の色の見え方" style="width: 150px;" />
@@ -17,15 +17,15 @@ title: 作品
 ## [石塚 裕大：Clebsch の曲面]({{site.baseurl}}/2019/04/07/ishitsuka.html)
 <img src="/images/2018/ishitsuka.jpg" alt="Clebsch の曲面" style="width: 150px;" />
 
-## 松本 剛：流体力学の3D可視化
+## [松本 剛：流体力学の3D可視化]({{site.baseurl}}/2019/04/09/matsumoto.html)
+<img src="/images/2018/matsumoto.png" alt="流体力学の3D可視化" style="width: 150px;" />
+
 ## [稲生 啓行：球面二重振り子]({{site.baseurl}}/2019/04/05/inou-pendulum.html)
 <img src="/images/2018/DoubleSphericalPendulum.png" alt="球面二重振り子" style="width: 150px;" />
 
 ## [稲生 啓行：正多胞体]({{site.baseurl}}/2019/04/06/inou-polytopes.html)
 
 ## [稲生 啓行：複素 Hénon 写像の Julia 集合]({{site.baseurl}}/2019/04/06/inou-julia.html)
-
-(準備中)
 
 ---
 # 2017年度
