@@ -27,9 +27,11 @@ title: Tips・参考リンク
   * [キャンドゥのスマホで3D VRメガネ](https://www.google.com/search?q=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%82%A5+%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7+3D+VR%E3%83%A1%E3%82%AC%E3%83%8D) は安価かつ手軽で優秀です．スマホVRにおすすめです．
     * [Cardboard viewer profile generator](https://wwgc.firebaseapp.com/)で稲生が適当に作ったViewer Profile <br>![キャンドゥのスマホで3D VRメガネ 用 View Profile]({{site.baseurl}}/images/qr_viewer_profile.png)
     Viewer Parameter は [このリンク](http://google.com/cardboard/cfg?p=Cg_jgq3jg6Pjg7Pjg4njgqUSGuOCueODnuODm-OBpzNEIFZS44Oh44Ks44ONHbgehT0lrkdhPSoQAABIQgAASEIAAEhCAABIQlgCNSlcDz06CM3MTD6amRk-UABgAA)をコピーして貼りつけてください。
+  * ダイソーも「スマホで VRグラス」というそっくりなものを売っています。
 * Unity 関連
   * [VRTK - Virtual Reality Toolkit](https://vrtoolkit.readme.io/)
-    * VRTK は[最新の SteamVR plugin に対応していない](https://twitter.com/VR_Toolkit/status/1043735543153070080) ので[1.2.3](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/download/1.2.3/SteamVR.Plugin.unitypackage)を使う必要があるので注意。
+    * VRTK (現行のv3系列) は[最新の SteamVR plugin に対応していない](https://twitter.com/VR_Toolkit/status/1043735543153070080) ので[1.2.3](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/download/1.2.3/SteamVR.Plugin.unitypackage)を使う必要があるので注意。
+    * [VR in Unity: A Beginner's Guide (using VRTK)](https://learn.unity.com/project/vr-in-unity-a-beginner-s-guide) VRTK v4 beta用のチュートリアル。
   * [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx)
   * [Pcx4D - 4D Point Cloud Importer/Renderer for Unity](https://github.com/romanesco/Pcx4D) (Pcxの稲生による4次元拡張版)
   * [【Unity / Oculus Go】Oculus Goコントローラー表示方法とボタン取得方法](http://rikoubou.hatenablog.com/entry/2018/06/04/193607)
