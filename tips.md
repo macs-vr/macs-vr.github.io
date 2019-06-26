@@ -15,6 +15,10 @@ title: Tips・参考リンク
   * 4次元の点群を可視化 (実験中の諸々)
   * 動的Meshの作成
   * コントローラ、キーボード等の使用
+  * GitによるUnityプロジェクトのバージョン管理と共有
+    * 最低限やるべきこと：
+        * 最初にEdit→Project Settings→Editorで、Version ControlをにVisible Meta Filesに、Asset SerializationをForce Textにする。
+        * .gitignoreを適切に設定する。
 
 ## 参考リンク
 
@@ -35,6 +39,9 @@ title: Tips・参考リンク
   * [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx)
   * [Pcx4D - 4D Point Cloud Importer/Renderer for Unity](https://github.com/romanesco/Pcx4D) (Pcxの稲生による4次元拡張版)
   * [【Unity / Oculus Go】Oculus Goコントローラー表示方法とボタン取得方法](http://rikoubou.hatenablog.com/entry/2018/06/04/193607)
+  * Unity+Git関連
+    * [GitリポジトリをまたいだUnityプロジェクト間のソース共有](http://satoshi-maemoto.hatenablog.com/entry/2019/01/30/230958)
+    * [unity3d and git submodules is it possible?](https://stackoverflow.com/questions/24899296/unity3d-and-git-submodules-is-it-possible) Gitの機能に頼らず、シンボリックリンクにしろという解答が。
 * 3Dプリンタ関連
   * [理学研究科 技術部 3Dプリンターサービス](http://www.scitech.sci.kyoto-u.ac.jp/service/3dpr.html) 現在以下の2機種が利用できます．
     * [エス.ラボ株式会社](http://slab.jp/) S3DP555
