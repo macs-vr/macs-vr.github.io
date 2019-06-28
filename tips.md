@@ -33,9 +33,11 @@ title: Tips・参考リンク
     Viewer Parameter は [このリンク](http://google.com/cardboard/cfg?p=Cg_jgq3jg6Pjg7Pjg4njgqUSGuOCueODnuODm-OBpzNEIFZS44Oh44Ks44ONHbgehT0lrkdhPSoQAABIQgAASEIAAEhCAABIQlgCNSlcDz06CM3MTD6amRk-UABgAA)をコピーして貼りつけてください。
   * ダイソーも「スマホで VRグラス」というそっくりなものを売っています。
 * Unity 関連
+  * [Unity](https://unity.com/)
+    * Unity Hubから入れるときはalpha版、beta版でない(バージョン番号にaやbのついていない)ものを選ぶこと。
   * [VRTK - Virtual Reality Toolkit](https://vrtoolkit.readme.io/)
     * VRTK (現行のv3系列) は[最新の SteamVR plugin に対応していない](https://twitter.com/VR_Toolkit/status/1043735543153070080) ので[1.2.3](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/download/1.2.3/SteamVR.Plugin.unitypackage)を使う必要があるので注意。
-    * [VR in Unity: A Beginner's Guide (using VRTK)](https://learn.unity.com/project/vr-in-unity-a-beginner-s-guide) VRTK v4 beta用のチュートリアル。
+    * [VR in Unity: A Beginner's Guide (using VRTK)](https://learn.unity.com/project/vr-in-unity-a-beginner-s-guide) 開発中の[VRTK v4 beta](https://github.com/ExtendRealityLtd/VRTK)用のチュートリアル。Unity 2019.1以降ではXR Legacy Input HelpersをPackage Managerからインストールする必要がある(とのことだが、それでも手元の環境ではコントローラがちゃんと使えていない)。
   * [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx)
   * [Pcx4D - 4D Point Cloud Importer/Renderer for Unity](https://github.com/romanesco/Pcx4D) (Pcxの稲生による4次元拡張版)
   * [【Unity / Oculus Go】Oculus Goコントローラー表示方法とボタン取得方法](http://rikoubou.hatenablog.com/entry/2018/06/04/193607)
