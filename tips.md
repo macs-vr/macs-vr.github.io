@@ -41,6 +41,7 @@ title: Tips・参考リンク
   * [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx)
   * [Pcx4D - 4D Point Cloud Importer/Renderer for Unity](https://github.com/romanesco/Pcx4D) (Pcxの稲生による4次元拡張版)
   * [【Unity / Oculus Go】Oculus Goコントローラー表示方法とボタン取得方法](http://rikoubou.hatenablog.com/entry/2018/06/04/193607)
+  * [7日間でマスターするUnityシェーダ入門](http://nn-hokuson.hatenablog.com/entry/2018/02/15/140037)
   * Unity+Git関連
     * [GitHub for Unity](https://unity.github.com/)
     * [GitリポジトリをまたいだUnityプロジェクト間のソース共有](http://satoshi-maemoto.hatenablog.com/entry/2019/01/30/230958)
