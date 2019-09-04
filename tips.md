@@ -52,6 +52,8 @@ title: Tips・参考リンク
 * [Pcx4D - 4D Point Cloud Importer/Renderer for Unity](https://github.com/romanesco/Pcx4D) (Pcxの稲生による4次元拡張版)
 * [【Unity / Oculus Go】Oculus Goコントローラー表示方法とボタン取得方法](http://rikoubou.hatenablog.com/entry/2018/06/04/193607)
 * [7日間でマスターするUnityシェーダ入門](http://nn-hokuson.hatenablog.com/entry/2018/02/15/140037)
+* [Import OBJ and MTL File - Unity](https://www.youtube.com/watch?v=0SzuPgFQO-8) (Youtubeの動画。42秒)  
+OBJファイルのインポートが上手く行かない時に。
 
 #### Unity+Git関連
 * [GitHub for Unity](https://unity.github.com/)
@@ -71,3 +73,14 @@ PDBをUnityで使える形に変換して表示する部分はHoloLensに限ら�
 現在以下の2機種が利用できます．
   * [エス.ラボ株式会社](http://slab.jp/) S3DP555
   * [Formlabs](https://formlabs.com/ja/) form2
+
+### 分子構造の3Dモデルの作成
+* [RCSB PDB](https://www.rcsb.org/) (Protein Data Bank)
+* 分子構造を 3D で観察しよう [(1)](https://www.chem-station.com/blog/2015/03/jmol-pdb-01.html) [(2)](https://www.chem-station.com/blog/2015/03/jmol-pdb-02.html) [(3)](https://www.chem-station.com/blog/2015/03/jmol-pdb-03.html)  
+[Jmol](http://jmol.sourceforge.net/)を用いたOBJファイルの作成方法
+* [HoloLensを使ってPDBに登録されているタンパク質の立体構造を現実空間に投影する](http://imamachi-n.hatenablog.com/entry/2017/01/31/001353)  
+[PyMOL](https://pymol.org/2/)を用いたFBXファイルの作成方法
+
+### その他
+* [Sketchfab For Science](http://www.sketchfabforscience.com/)  
+ 3Dモデルなどを公開・共有・販売するためのサイトである[Sketchfab](https://sketchfab.com/)を利用した科学可視化のサイト。
