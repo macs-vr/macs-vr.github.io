@@ -5,6 +5,8 @@ title: Tips・参考リンク
 
 随時更新していきます。
 
+------
+
 ## Tips
 
 * [Unity+VRTKで物を掴んで拡大縮小](https://qiita.com/inyo/items/73d31c33799696251b6a)
@@ -20,9 +22,12 @@ title: Tips・参考リンク
         * 最初にEdit→Project Settings→Editorで、Version ControlをにVisible Meta Filesに、Asset SerializationをForce Textにする。
         * .gitignoreを適切に設定する。
 
+------
+
 ## 参考リンク
 
 ### XR(VR/AR/MR) HMD
+
 * [Oculus](https://www.oculus.com/)
 * [HTC Vive](https://www.vive.com/jp/)
 * [Steam VR](https://store.steampowered.com/steamvr?l=japanese)
@@ -34,6 +39,7 @@ title: Tips・参考リンク
 * ダイソーも「スマホで VRグラス」というそっくりなものを売っています。
 
 ### Leap Motion
+
 手を認識するデバイス。VR HMDの前につけるとコントローラなしで操作できる。
 
 * [Leap Motion](https://www.leapmotion.com/)
@@ -41,6 +47,7 @@ title: Tips・参考リンク
   Leap MotionをVR HMDにつけるためのアダプタ (3D印刷用)。
 
 ### Unity 関連
+
 * [Unity](https://unity.com/)
   * Unity Hubから入れるときはalpha版、beta版でない(バージョン番号にaやbのついていない)ものを選ぶこと。
 * [VRTK - Virtual Reality Toolkit](https://vrtoolkit.readme.io/)
@@ -55,7 +62,15 @@ title: Tips・参考リンク
 * [Import OBJ and MTL File - Unity](https://www.youtube.com/watch?v=0SzuPgFQO-8) (Youtubeの動画。42秒)  
 OBJファイルのインポートが上手く行かない時に。
 
+#### Unityでの動的Meshの作成
+
+* [UnityでMeshをスクリプトから作る](https://matcha-choco010.net/2018/08/25/unity%E3%81%A7mesh%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B/)
+* [Unity 動的にメッシュを生成してゴニョゴニョする : 超基本編](https://www.shibuya24.info/entry/2015/11/29/180748)
+* 稲生作の [Slice4D](https://github.com/romanesco/Slice4D) (4次元超立方体の3次元超平面による断面を表示するデモ) の
+[Assets/Scripts/SlicedHypercube.cs](https://github.com/romanesco/Slice4D/blob/master/Assets/Scripts/SlicedHypercube.cs) も参考になるかもしれません。
+
 #### Unity+Git関連
+
 * [GitHub for Unity](https://unity.github.com/)
 * [GitリポジトリをまたいだUnityプロジェクト間のソース共有](http://satoshi-maemoto.hatenablog.com/entry/2019/01/30/230958)
 * [unity3d and git submodules is it possible?](https://stackoverflow.com/questions/24899296/unity3d-and-git-submodules-is-it-possible)  
@@ -64,17 +79,20 @@ Gitの機能に頼らず、シンボリックリンクにしろという解答�
 PDBをUnityで使える形に変換して表示する部分はHoloLensに限らず使えます。
 
 ### 他の開発環境など
+
 * [Unreal Engine](https://www.unrealengine.com/ja/)
 * [A-FRAME](https://aframe.io/) WebVR用。
 * [Three.js](https://threejs.org/) WebGL用。上のA-FRAMEはThree.jsの上に作られている。
 
 ### 3Dプリンタ関連
+
 * [理学研究科 技術部 3Dプリンターサービス](http://www.scitech.sci.kyoto-u.ac.jp/service/3dpr.html)  
 現在以下の2機種が利用できます．
   * [エス.ラボ株式会社](http://slab.jp/) S3DP555
   * [Formlabs](https://formlabs.com/ja/) form2
 
 ### 分子構造の3Dモデルの作成
+
 * [RCSB PDB](https://www.rcsb.org/) (Protein Data Bank)
 * 分子構造を 3D で観察しよう [(1)](https://www.chem-station.com/blog/2015/03/jmol-pdb-01.html) [(2)](https://www.chem-station.com/blog/2015/03/jmol-pdb-02.html) [(3)](https://www.chem-station.com/blog/2015/03/jmol-pdb-03.html)  
 [Jmol](http://jmol.sourceforge.net/)を用いたOBJファイルの作成方法
@@ -82,5 +100,6 @@ PDBをUnityで使える形に変換して表示する部分はHoloLensに限ら�
 [PyMOL](https://pymol.org/2/)を用いたFBXファイルの作成方法
 
 ### その他
+
 * [Sketchfab For Science](http://www.sketchfabforscience.com/)  
  3Dモデルなどを公開・共有・販売するためのサイトである[Sketchfab](https://sketchfab.com/)を利用した科学可視化のサイト。
