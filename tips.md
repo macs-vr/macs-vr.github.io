@@ -75,8 +75,6 @@ OBJファイルのインポートが上手く行かない時に。
 * [GitリポジトリをまたいだUnityプロジェクト間のソース共有](http://satoshi-maemoto.hatenablog.com/entry/2019/01/30/230958)
 * [unity3d and git submodules is it possible?](https://stackoverflow.com/questions/24899296/unity3d-and-git-submodules-is-it-possible)  
 Gitの機能に頼らず、シンボリックリンクにしろという解答が。
-* [HoloLensを使ってPDBに登録されているタンパク質の立体構造を現実空間に投影する](http://imamachi-n.hatenablog.com/entry/2017/01/31/001353)  
-PDBをUnityで使える形に変換して表示する部分はHoloLensに限らず使えます。
 
 ### 他の開発環境など
 
@@ -97,7 +95,9 @@ PDBをUnityで使える形に変換して表示する部分はHoloLensに限ら�
 * 分子構造を 3D で観察しよう [(1)](https://www.chem-station.com/blog/2015/03/jmol-pdb-01.html) [(2)](https://www.chem-station.com/blog/2015/03/jmol-pdb-02.html) [(3)](https://www.chem-station.com/blog/2015/03/jmol-pdb-03.html)  
 [Jmol](http://jmol.sourceforge.net/)を用いたOBJファイルの作成方法
 * [HoloLensを使ってPDBに登録されているタンパク質の立体構造を現実空間に投影する](http://imamachi-n.hatenablog.com/entry/2017/01/31/001353)  
-[PyMOL](https://pymol.org/2/)を用いたFBXファイルの作成方法
+[PyMOL](https://pymol.org/2/)を用いたFBXファイルの作成方法。HoloLens関連以外の部分はUnity一般で使えます。
+
+
 
 ### その他
 
