@@ -1,6 +1,6 @@
 ---
 layout: page
-title: メンバー
+title: Members
 ---
 
 (敬称略・順不同)

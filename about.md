@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 概要
+title: About
 ---
 
 [MACS教育プログラム](http://www.sci.kyoto-u.ac.jp/ja/academics/programs/macs/) (正式名称：数理を基盤として新分野の自発的創出を促す理学教育プログラム)は， 京都大学大学院理学研究科の複数の専攻の教員と学生からなるスタディグループを形成して分野横断的教育と研究を行うプログラムです． 詳細は[MACS教育プログラム](http://www.sci.kyoto-u.ac.jp/ja/academics/programs/macs/)のページをご覧ください．

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tips・参考リンク
+title: Tips・links
 ---
 
 随時更新していきます。
